@@ -83,7 +83,7 @@ var text = "test".split("");
 // }
 // console.log("Char non ",charNonRepeats("xyzzoy"))
 
-// 3.
+3.
 // SELECT MAX(DISTINCT("*")) FROM "myNumber";
 
 SELECT  MAX(DISTINCT(NUM))
